@@ -1,5 +1,5 @@
 {
-  "name": "yoga-poses-recommender",
+  "name": "yoga-pose-recommender",
   "version": "1.0.0",
   "description": "Get recommendations for Yoga Poses using Gemini",
   "main": "app.js",
