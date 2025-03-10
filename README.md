@@ -1,5 +1,6 @@
-# Yoga Pose Recommender
-A Node.js web application that does Vector Search on a Yoga Poses database in Firestore.
+# Yoga Pose Recommender: AI-Powered Vector Search for Yoga Poses
+An AI-powered semantic search system that helps users explore yoga poses. By leveraging Gemini (LLM) to generate rich, context-aware descriptions and create high-dimensional vector embeddings, the project transforms an existing Hugging Face dataset into a deeply intelligent and intuitive search experience. With LangChain JS orchestrating data processing and Firestore serving as a high-performance vector database, users can retrieve the most relevant yoga poses through natural language queries. Additionally, Google Cloud’s Text-to-Speech technology enhances accessibility by providing immersive audio descriptions. Built with Node.js, this system seamlessly integrates AI-driven search, vector embeddings, and real-time query processing to redefine yoga exploration.
+
 
 This application does the following:
 1. Utilize an existing [Hugging Face Dataset](https://huggingface.co/datasets/omergoshen/yoga_poses) of Yoga poses (JSON format).
